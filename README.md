@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=ffffff)](https://www.twitch.tv/sonotgood)
 [![](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:qasw20310@gmail.com)
 
-:computer: Backend Engineer.
-
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ### Backend

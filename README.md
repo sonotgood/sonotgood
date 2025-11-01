@@ -1,10 +1,8 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Ilya
 
 [![](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/sonotgood)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://codepen.io/xiaoluoboding)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
+[![](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=ffffff)](https://twitch.tv/sonotgood)
+[![](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:qasw20310@gmail.com)
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 

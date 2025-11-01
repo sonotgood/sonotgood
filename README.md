@@ -1,12 +1,12 @@
-# 𝙃𝙞, 𝙄❜𝙢 𝙄𝙡𝙮𝙖
+# 𝙃𝙞, 𝙄'𝙢 𝙄𝙡𝙮𝙖
 
 [![](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/sonotgood)
 [![](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=ffffff)](https://www.twitch.tv/sonotgood)
 [![](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:qasw20310@gmail.com)
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝙈𝙮 𝙏𝙚𝙘𝙠 𝙎𝙩𝙖𝙘𝙠
 
-### Backend
+### 𝘽𝙖𝙘𝙠𝙚𝙣𝙙
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ffffff)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=ffffff)
@@ -19,13 +19,13 @@
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=ffffff)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=ffffff)
 
-### ML / Data Science
+### 𝙈𝙇 / 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙘𝙚
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=ffffff)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### Frontend
+### 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -34,7 +34,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Zod](https://img.shields.io/badge/-Zod-3068B7?style=flat-square&logo=zod&logoColor=ffffff)
 
-### DevOps & Tooling
+### 𝘿𝙚𝙫𝙊𝙥𝙨 & 𝙏𝙤𝙤𝙡𝙞𝙣𝙜
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
@@ -43,7 +43,7 @@
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-## 𝗦𝘁𝗮𝘁𝘀
+## 𝙎𝙩𝙖𝙩𝙨
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonotgood&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonotgood&layout=compact&bg_color=00000000&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)

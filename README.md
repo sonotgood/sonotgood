@@ -53,5 +53,5 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonotgood&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonotgoodМ&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonotgood&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonotgood&layout=compact&bg_color=00000000&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)

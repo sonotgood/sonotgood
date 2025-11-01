@@ -1,4 +1,4 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Ilya
+# 𝙃𝙞, 𝙄❜𝙢 𝙄𝙡𝙮𝙖
 
 [![](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/sonotgood)
 [![](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=ffffff)](https://www.twitch.tv/sonotgood)
